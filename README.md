@@ -206,6 +206,12 @@ Além do isolamento entre empresas, o produto tem proteção contra tentativas r
 - **Serverless muda o que "depois" significa.** Trabalho em segundo plano precisa ser explícito, e agendamento pode sair do próprio tráfego quando o atraso é aceitável.
 - **Trade-offs documentados envelhecem bem.** Cada atalho assumido está escrito junto com o motivo, o que torna a próxima decisão mais fácil.
 
+## Licença
+
+Este projeto está licenciado sob a licença [CC0 1.0 Universal](LICENSE).
+
+> A logo e a marca Express Ticket não estão cobertas por esta licença.
+
 ## Autor
 
 ### Renan Montanari
